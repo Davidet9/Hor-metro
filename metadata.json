@@ -1,0 +1,6 @@
+{
+  "name": "Horomax - Mantenimiento de Maquinaria Pesada",
+  "description": "Sistema de gestión y base de datos para registro de horas de servicio de maquinaria pesada y alertas preventivas de cambio de aceite y filtros.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
